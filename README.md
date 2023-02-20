@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/cix19jxh0gugh9tq?svg=true)](https://ci.appveyor.com/project/HelgaRoosh/ra-2-2-store)
 
+https://helgaroosh.github.io/Ra_2_2_store/
+
 Расположение товаров
 ===
 
